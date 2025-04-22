@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(69, 172, 223, 255);
+}
+
+.penguin-membership{
+    display: block;
+    width: 110px;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.titles{
+    text-align: center;
+    font-family: Tahoma;
+    color: rgb(243, 236, 21, 255);
+    border: 10px ridge rgb(236, 173, 101);
+    background-color: rgb(231, 170, 39);
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+.flippy{
+    display: block;
+    margin-left: auto;
+    margin-right: 500px;
+}
+
+.toontown-homepage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px groove rgb(255, 196, 0);
+    margin-bottom: 50px;
+}
+
+.intro-text{
+    background-color: rgb(164, 221, 248);
+    border: 10px dashed rgb(255, 218, 9);
+    margin-right: 170px;
+    margin-left: 170px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: courier new;
+    color: rgb(15, 51, 80);
+    line-height: 25px;
+}
+
+span{
+    color: rgb(219, 74, 17);
+}
+
+.clarabelle{
+    display: block;
+    margin-left: 180px;
+    margin-right: auto;
+}
+
+.penguin-town-square{
+    display: block;
+    width: 750px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+    border: 15px ridge rgb(170, 127, 16);
+}
+
+.toontown-townhall{
+    display: block;
+    width: 750px;
+    margin-left: auto;
+    margin-right: 90px;
+    border: 15px ridge rgb(170, 127, 16);
+    margin-bottom: 90px;
+}
+
+.pixie-hollow{
+    display: block;
+    width: 750px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+    border: 15px ridge rgb(170, 127, 16);
+    margin-bottom: 70px;
+}
+
+.list{
+    background-color: rgb(164, 221, 248);
+    border: 10px dashed rgb(255, 218, 9);
+    margin-right: 170px;
+    margin-left: 170px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: courier new;
+    color: rgb(15, 51, 80);
+    line-height: 27px;
+}
+
+.buildings{
+    margin-left: auto;
+    margin-right: auto;
+}
