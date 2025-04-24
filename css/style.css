@@ -17,8 +17,8 @@ body{
     color: rgb(243, 236, 21, 255);
     border: 10px ridge rgb(236, 173, 101);
     background-color: rgb(231, 170, 39);
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 450px;
+    margin-left: 450px;
     margin-top: 40px;
 }
 
@@ -39,8 +39,8 @@ body{
 .intro-text{
     background-color: rgb(164, 221, 248);
     border: 10px dashed rgb(255, 218, 9);
-    margin-right: 170px;
-    margin-left: 170px;
+    margin-right: 350px;
+    margin-left: 350px;
     padding-left: 60px;
     padding-right: 60px;
     padding-left: 60px;
@@ -56,23 +56,23 @@ span{
 
 .clarabelle{
     display: block;
-    margin-left: 180px;
+    margin-left: 300px;
     margin-right: auto;
 }
 
 .penguin-town-square{
     display: block;
-    width: 750px;
-    margin-left: 90px;
+    width: 650px;
+    margin-left: 160px;
     margin-bottom: 30px;
     border: 15px ridge rgb(133, 99, 12);
 }
 
 .toontown-townhall{
     display: block;
-    width: 750px;
+    width: 650px;
     margin-left: auto;
-    margin-right: 90px;
+    margin-right: 160px;
     border: 15px ridge rgb(133, 99, 12);
     margin-bottom: 90px;
     margin-top: 90px;
@@ -80,8 +80,8 @@ span{
 
 .pixie-hollow{
     display: block;
-    width: 750px;
-    margin-left: 90px;
+    width: 650px;
+    margin-left: 160px;
     margin-bottom: 30px;
     border: 15px ridge rgb(133, 99, 12);
     margin-bottom: 70px;
@@ -90,8 +90,8 @@ span{
 .list{
     background-color: rgb(164, 221, 248);
     border: 10px dashed rgb(255, 218, 9);
-    margin-right: 170px;
-    margin-left: 170px;
+    margin-right: 350px;
+    margin-left: 350px;
     padding-left: 60px;
     padding-right: 60px;
     padding-left: 60px;
@@ -102,7 +102,8 @@ span{
 }
 
 .buildings{
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 1900px;
+    width: 1650px;
 }
