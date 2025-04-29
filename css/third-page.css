@@ -1,0 +1,51 @@
+@font-face{
+    src: url("../assets/fonts/Skater\ Girls\ Rock.ttf");
+    font-family: skater;
+}
+
+body{
+    background-image: url('../assets/images/toontown-central.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+video{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+}
+
+h1{
+    display: block;
+    color: rgb(222, 222, 253);
+    font-family: skater;
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: 50px;
+}
+
+div{
+    display: block;
+    border: 5px solid rgb(172, 208, 255);
+    background-color: rgb(99, 182, 255);
+    margin: 100px;
+    padding: 10px;
+}
+
+p{
+    color: rgb(238, 238, 255);
+    font-family: skater;
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+.resize-note{
+    position: absolute;
+    top: 60%
+}
+
+.play-button{
+    display: block;
+    margin-left: auto;
+}
